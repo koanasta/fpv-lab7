@@ -1,0 +1,53 @@
+{
+  "takeoff_time": "23:19:24",
+  "max_alt_m": 40.0,
+  "max_groundspeed_ms": 5.0,
+  "max_airspeed_ms": 5.0,
+  "cruise_groundspeed_mean_ms": 4.97,
+  "flight_time_wall_s": 255,
+  "flight_time_csv_field": "00:04:20",
+  "flight_time_sim_s": 99.2,
+  "start_coord": [
+    -35.3632621,
+    149.1652374
+  ],
+  "end_coord": [
+    -35.3624356,
+    149.1641926
+  ],
+  "max_roll_deg_csv": 2.6,
+  "max_roll_deg_tlog": 3.02,
+  "modes": [
+    "STABILIZE",
+    "GUIDED",
+    "AUTO"
+  ],
+  "arm_sequence": [
+    "DISARMED",
+    "ARMED",
+    "DISARMED"
+  ],
+  "target": [
+    -35.3624356,
+    149.1641926
+  ],
+  "miss_to_target_m": 0.0,
+  "start_to_target_m": 132.1,
+  "flight_distance_m": "130.4",
+  "alt_error_m": 0.0,
+  "speed_error_ms": 0.0,
+  "phase_s": {
+    "Зліт": [
+      0,
+      41
+    ],
+    "Горизонтальний політ": [
+      41,
+      124
+    ],
+    "Посадка": [
+      124,
+      255
+    ]
+  }
+}
